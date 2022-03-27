@@ -1,4 +1,4 @@
-package why_java8;
+package e01_why_java8;
 
 import java.util.Arrays;
 import java.util.List;
